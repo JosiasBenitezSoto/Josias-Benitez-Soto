@@ -10,7 +10,7 @@ Josias</a></h1>
 
 - 📫 How to reach me **benitezjosias27@gmail.com**
 
-- 📄 Mi curriculum lo puedes encontrar aqui <a href="file:///C:/Users/JOSIAS%20BENITEZ/OneDrive/Escritorio/certificados/Curriculum%20.pdf" target="blank">Resume</a>
+- 📄 Mis proyectos aunque son basicos, enseñan todos mis conocimientos y me ayuda a seguir mejorando y creciendo. 
 
 - 👨🏻‍🎓 Estoy estudiando en la universidad del caribe(UNICARIBE). 
 <br/>
