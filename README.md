@@ -10,7 +10,7 @@ Josias</a></h1>
 
 - 📫 How to reach me **benitezjosias27@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Mi curriculum lo puedes encontrar aqui <a href="file:///C:/Users/JOSIAS%20BENITEZ/OneDrive/Escritorio/certificados/Curriculum%20.pdf" target="blank">Resume</a>
 
 - 👨🏻‍🎓 Estoy estudiando en la universidad del caribe(UNICARIBE). 
 <br/>
